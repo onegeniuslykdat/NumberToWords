@@ -28,7 +28,7 @@ When the application is ruuning, you can enter a number as input in the textbox 
 
 
 ## Host
-The application is hosted on an Azure WebApp**** using CI/CD from GitHub. When a change is pushed to the Master branch****, the GitHub Action template is started, tests are run and the change is automatically pushed to the WebApp.
+The application is hosted on an Azure WebApp**** using CI/CD from GitHub. When a change is pushed to the Main branch****, the GitHub Action template is started, tests are run and the change is automatically pushed to the WebApp.
 
 
 ## Further contribution
