@@ -1,0 +1,54 @@
+﻿@page
+@model IndexModel
+
+@using App.Services
+@inject IWordServices wordService
+@inject ICurrencyServices currencyService
+
+@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to the Number to Words Converter</h1>
+    <p>Select a currency and enter a number</p>
+</div>
+
+@{
+    if(!string.IsNullOrWhiteSpace(Model.ErrorMsg)) {
+        <div class="invalid-feedback">
+        @Model.ErrorMsg
+        </div>
+    } 
+    else {
+        <form class="d-flex justify-content-center" method="post" onsubmit="">
+            <div class="form-group mb-2">
+                <select required class="form-control" id="currency" name="currency" asp-for="CurrencyCode" asp-items="Model.CurrencyOptions"></select>
+            </div>
+            <div class="form-group mx-sm-3 mb-2">
+                <input required asp-for="Number" type="number" id="number" name="number" onblur="validate(this)" step="0.01" min="0.01" max="1000000000000000000" class="form-control" placeholder="145.55" />                
+            </div>
+            <button type="submit" class="btn btn-primary mb-2">Convert to Words</button>
+        </form>
+        <div class="mt-4">
+            <h5 class="text-center text-success">
+                @Model.Result
+            </h5>
+        </div>
+    }
+}
+
+<script type="text/javascript">
+    function validate(e) {
+        if(e.value) {
+            e.value = parseFloat(e.value).toFixed(2);
+
+            // <label id="numberWarning" style="display: none" class="text-warning"></label>
+            // var numberWarning = document.getElementById('numberWarning');
+            // if(!Number.isNaN(e.value)) {
+            //     numberWarning.innerText = 'Please enter a number';
+            //     e.value = 0.01;
+            // }
+        }
+    }
+</script>
