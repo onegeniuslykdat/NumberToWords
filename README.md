@@ -1,4 +1,5 @@
-# Tech Test: Number To Words v1.0.0
+# Tech Test: Number To Words
+*v1.0.0*
 A web page with a backend web server that converts numerical input into words and passes these words as a string output parameter onto the web page. This is a web application that converts a number (monetary value) from the user's input into the appropriate words. E.g. $157.76 to One Hundred and Fifty Seven Dollars And Seventy Six Cents. Three options for currency are also provided.
 
 
