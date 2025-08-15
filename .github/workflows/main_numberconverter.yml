@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  build-and-test:
     runs-on: windows-latest
     permissions:
       contents: read #This is required for actions/checkout
@@ -24,7 +24,10 @@ jobs:
           dotnet-version: '8.x'
 
       - name: Build with dotnet
-        run: dotnet build --configuration Release
+        run: dotnet build Application/appSolution.sln --configuration Release
+
+      - name: Run tests
+        run: dotnet test Application/App.Tests/App.Tests.csproj
 
       - name: dotnet publish
         run: dotnet publish -c Release -o "${{env.DOTNET_ROOT}}/myapp"
@@ -37,7 +40,7 @@ jobs:
 
   deploy:
     runs-on: windows-latest
-    needs: build
+    needs: build-and-test
     permissions:
       id-token: write #This is required for requesting the JWT
       contents: read #This is required for actions/checkout
@@ -62,4 +65,5 @@ jobs:
           app-name: 'numberconverter'
           slot-name: 'Production'
           package: .
+
           
