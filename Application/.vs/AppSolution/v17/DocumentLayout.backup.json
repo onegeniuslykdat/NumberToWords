@@ -1,89 +1,89 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\",
+  "WorkspaceRootPath": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF3B9F49-DDD2-4784-9514-0823BFBAD022}|App\\App.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\application\\appsolution\\app\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF3B9F49-DDD2-4784-9514-0823BFBAD022}|App\\App.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\numbertowords\\application\\app\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF3B9F49-DDD2-4784-9514-0823BFBAD022}|App\\App.csproj|solutionrelative:app\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF3B9F49-DDD2-4784-9514-0823BFBAD022}|App\\App.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\application\\appsolution\\app\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AF3B9F49-DDD2-4784-9514-0823BFBAD022}|App\\App.csproj|solutionrelative:app\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF3B9F49-DDD2-4784-9514-0823BFBAD022}|App\\App.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\application\\appsolution\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF3B9F49-DDD2-4784-9514-0823BFBAD022}|App\\App.csproj|solutionrelative:app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF3B9F49-DDD2-4784-9514-0823BFBAD022}|App\\App.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\application\\appsolution\\app\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AF3B9F49-DDD2-4784-9514-0823BFBAD022}|App\\App.csproj|solutionrelative:app\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AF3B9F49-DDD2-4784-9514-0823BFBAD022}|App\\App.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\application\\appsolution\\app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AF3B9F49-DDD2-4784-9514-0823BFBAD022}|App\\App.csproj|solutionrelative:app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\application\\appsolution\\app.services\\wordservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\numbertowords\\application\\app.services\\wordservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|solutionrelative:app.services\\wordservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\application\\appsolution\\app.services\\currencyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|solutionrelative:app.services\\currencyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{576CCA41-C8D0-43AC-B0F9-B9EFD6303F24}|App.Tests\\App.Tests.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\application\\appsolution\\app.tests\\wordtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{576CCA41-C8D0-43AC-B0F9-B9EFD6303F24}|App.Tests\\App.Tests.csproj|solutionrelative:app.tests\\wordtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\application\\appsolution\\app.services\\iwordservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\numbertowords\\application\\app.services\\iwordservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|solutionrelative:app.services\\iwordservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\application\\appsolution\\app.services\\data\\appdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|solutionrelative:app.services\\data\\appdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\numbertowords\\application\\app.services\\currencyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|solutionrelative:app.services\\currencyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\application\\appsolution\\app.services\\dataservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|solutionrelative:app.services\\dataservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF3B9F49-DDD2-4784-9514-0823BFBAD022}|App\\App.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\numbertowords\\application\\app\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF3B9F49-DDD2-4784-9514-0823BFBAD022}|App\\App.csproj|solutionrelative:app\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\application\\appsolution\\app.services\\dto\\resultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|solutionrelative:app.services\\dto\\resultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AF3B9F49-DDD2-4784-9514-0823BFBAD022}|App\\App.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\numbertowords\\application\\app\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AF3B9F49-DDD2-4784-9514-0823BFBAD022}|App\\App.csproj|solutionrelative:app\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\application\\appsolution\\app.services\\model\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|solutionrelative:app.services\\model\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{576CCA41-C8D0-43AC-B0F9-B9EFD6303F24}|App.Tests\\App.Tests.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\application\\appsolution\\app.tests\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{576CCA41-C8D0-43AC-B0F9-B9EFD6303F24}|App.Tests\\App.Tests.csproj|solutionrelative:app.tests\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{576CCA41-C8D0-43AC-B0F9-B9EFD6303F24}|App.Tests\\App.Tests.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\application\\appsolution\\app.tests\\datatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{576CCA41-C8D0-43AC-B0F9-B9EFD6303F24}|App.Tests\\App.Tests.csproj|solutionrelative:app.tests\\datatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{576CCA41-C8D0-43AC-B0F9-B9EFD6303F24}|App.Tests\\App.Tests.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\application\\appsolution\\app.tests\\currencytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{576CCA41-C8D0-43AC-B0F9-B9EFD6303F24}|App.Tests\\App.Tests.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\numbertowords\\application\\app.tests\\currencytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{576CCA41-C8D0-43AC-B0F9-B9EFD6303F24}|App.Tests\\App.Tests.csproj|solutionrelative:app.tests\\currencytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\application\\appsolution\\app.services\\idataservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF3B9F49-DDD2-4784-9514-0823BFBAD022}|App\\App.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\numbertowords\\application\\app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF3B9F49-DDD2-4784-9514-0823BFBAD022}|App\\App.csproj|solutionrelative:app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF3B9F49-DDD2-4784-9514-0823BFBAD022}|App\\App.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\numbertowords\\application\\app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF3B9F49-DDD2-4784-9514-0823BFBAD022}|App\\App.csproj|solutionrelative:app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576CCA41-C8D0-43AC-B0F9-B9EFD6303F24}|App.Tests\\App.Tests.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\numbertowords\\application\\app.tests\\wordtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576CCA41-C8D0-43AC-B0F9-B9EFD6303F24}|App.Tests\\App.Tests.csproj|solutionrelative:app.tests\\wordtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\numbertowords\\application\\app.services\\data\\appdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|solutionrelative:app.services\\data\\appdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\numbertowords\\application\\app.services\\dataservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|solutionrelative:app.services\\dataservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\numbertowords\\application\\app.services\\dto\\resultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|solutionrelative:app.services\\dto\\resultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\numbertowords\\application\\app.services\\model\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|solutionrelative:app.services\\model\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576CCA41-C8D0-43AC-B0F9-B9EFD6303F24}|App.Tests\\App.Tests.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\numbertowords\\application\\app.tests\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576CCA41-C8D0-43AC-B0F9-B9EFD6303F24}|App.Tests\\App.Tests.csproj|solutionrelative:app.tests\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{576CCA41-C8D0-43AC-B0F9-B9EFD6303F24}|App.Tests\\App.Tests.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\numbertowords\\application\\app.tests\\datatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{576CCA41-C8D0-43AC-B0F9-B9EFD6303F24}|App.Tests\\App.Tests.csproj|solutionrelative:app.tests\\datatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\numbertowords\\application\\app.services\\idataservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|solutionrelative:app.services\\idataservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{576CCA41-C8D0-43AC-B0F9-B9EFD6303F24}|App.Tests\\App.Tests.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\application\\appsolution\\app.tests\\stringextensiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{576CCA41-C8D0-43AC-B0F9-B9EFD6303F24}|App.Tests\\App.Tests.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\numbertowords\\application\\app.tests\\stringextensiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{576CCA41-C8D0-43AC-B0F9-B9EFD6303F24}|App.Tests\\App.Tests.csproj|solutionrelative:app.tests\\stringextensiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\application\\appsolution\\app.services\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\numbertowords\\application\\app.services\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|solutionrelative:app.services\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\application\\appsolution\\app.services\\icurrencyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\numbertowords\\application\\app.services\\icurrencyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|solutionrelative:app.services\\icurrencyservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\application\\appsolution\\app.services\\model\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|c:\\users\\averyprivateperson\\documents\\job tasks\\technologyone\\numbertowords\\application\\app.services\\model\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A646897F-C01E-47C9-9375-26714CCD239B}|App.Services\\App.Services.csproj|solutionrelative:app.services\\model\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -94,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,27 +106,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App\\Program.cs",
               "RelativeDocumentMoniker": "App\\Program.cs",
-              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App\\Program.cs",
+              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App\\Program.cs",
               "RelativeToolTip": "App\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAkwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-15T08:23:58.599Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "App\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "App\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-15T08:28:32.676Z",
               "IsPinned": true,
@@ -134,15 +133,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App\\appsettings.json",
               "RelativeDocumentMoniker": "App\\appsettings.json",
-              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App\\appsettings.json",
+              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App\\appsettings.json",
               "RelativeToolTip": "App\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-08-15T11:24:21.811Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WordServices.cs",
+              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Services\\WordServices.cs",
+              "RelativeDocumentMoniker": "App.Services\\WordServices.cs",
+              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Services\\WordServices.cs",
+              "RelativeToolTip": "App.Services\\WordServices.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T08:22:51.677Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWordServices.cs",
+              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Services\\IWordServices.cs",
+              "RelativeDocumentMoniker": "App.Services\\IWordServices.cs",
+              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Services\\IWordServices.cs",
+              "RelativeToolTip": "App.Services\\IWordServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T08:31:28.58Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -150,35 +176,35 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App\\Pages\\Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "App\\Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "App\\Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAAAEIAAAArAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App\\Pages\\Index.cshtml.cs*",
+              "RelativeToolTip": "App\\Pages\\Index.cshtml.cs*",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAiwIYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-15T10:07:22.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App\\Pages\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "App\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App\\Pages\\Index.cshtml",
               "RelativeToolTip": "App\\Pages\\Index.cshtml",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAAC8AAABCAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-15T08:26:42.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "WordTests.cs",
-              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Tests\\WordTests.cs",
+              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Tests\\WordTests.cs",
               "RelativeDocumentMoniker": "App.Tests\\WordTests.cs",
-              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Tests\\WordTests.cs",
+              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Tests\\WordTests.cs",
               "RelativeToolTip": "App.Tests\\WordTests.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAwwC8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -187,11 +213,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "TestData.cs",
-              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Tests\\TestData.cs",
+              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Tests\\TestData.cs",
               "RelativeDocumentMoniker": "App.Tests\\TestData.cs",
-              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Tests\\TestData.cs",
+              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Tests\\TestData.cs",
               "RelativeToolTip": "App.Tests\\TestData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -199,11 +225,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ResultDTO.cs",
-              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Services\\DTO\\ResultDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Services\\DTO\\ResultDTO.cs",
               "RelativeDocumentMoniker": "App.Services\\DTO\\ResultDTO.cs",
-              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Services\\DTO\\ResultDTO.cs",
+              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Services\\DTO\\ResultDTO.cs",
               "RelativeToolTip": "App.Services\\DTO\\ResultDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -213,9 +239,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "StringExtensionTests.cs",
-              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Tests\\StringExtensionTests.cs",
+              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Tests\\StringExtensionTests.cs",
               "RelativeDocumentMoniker": "App.Tests\\StringExtensionTests.cs",
-              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Tests\\StringExtensionTests.cs",
+              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Tests\\StringExtensionTests.cs",
               "RelativeToolTip": "App.Tests\\StringExtensionTests.cs",
               "ViewState": "AgIAACgAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -223,11 +249,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "DataServices.cs",
-              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Services\\DataServices.cs",
+              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Services\\DataServices.cs",
               "RelativeDocumentMoniker": "App.Services\\DataServices.cs",
-              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Services\\DataServices.cs",
+              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Services\\DataServices.cs",
               "RelativeToolTip": "App.Services\\DataServices.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwBIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -235,11 +261,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "DataTests.cs",
-              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Tests\\DataTests.cs",
+              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Tests\\DataTests.cs",
               "RelativeDocumentMoniker": "App.Tests\\DataTests.cs",
-              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Tests\\DataTests.cs",
+              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Tests\\DataTests.cs",
               "RelativeToolTip": "App.Tests\\DataTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -250,9 +276,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "StringExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Services\\Extensions\\StringExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Services\\Extensions\\StringExtensions.cs",
               "RelativeDocumentMoniker": "App.Services\\Extensions\\StringExtensions.cs",
-              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Services\\Extensions\\StringExtensions.cs",
+              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Services\\Extensions\\StringExtensions.cs",
               "RelativeToolTip": "App.Services\\Extensions\\StringExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -260,11 +286,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AppData.cs",
-              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Services\\Data\\AppData.cs",
+              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Services\\Data\\AppData.cs",
               "RelativeDocumentMoniker": "App.Services\\Data\\AppData.cs",
-              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Services\\Data\\AppData.cs",
+              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Services\\Data\\AppData.cs",
               "RelativeToolTip": "App.Services\\Data\\AppData.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -272,11 +298,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Number.cs",
-              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Services\\Model\\Number.cs",
+              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Services\\Model\\Number.cs",
               "RelativeDocumentMoniker": "App.Services\\Model\\Number.cs",
-              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Services\\Model\\Number.cs",
+              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Services\\Model\\Number.cs",
               "RelativeToolTip": "App.Services\\Model\\Number.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -286,9 +312,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "IDataServices.cs",
-              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Services\\IDataServices.cs",
+              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Services\\IDataServices.cs",
               "RelativeDocumentMoniker": "App.Services\\IDataServices.cs",
-              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Services\\IDataServices.cs",
+              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Services\\IDataServices.cs",
               "RelativeToolTip": "App.Services\\IDataServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -298,9 +324,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "Currency.cs",
-              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Services\\Model\\Currency.cs",
+              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Services\\Model\\Currency.cs",
               "RelativeDocumentMoniker": "App.Services\\Model\\Currency.cs",
-              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Services\\Model\\Currency.cs",
+              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Services\\Model\\Currency.cs",
               "RelativeToolTip": "App.Services\\Model\\Currency.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -308,23 +334,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IWordServices.cs",
-              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Services\\IWordServices.cs",
-              "RelativeDocumentMoniker": "App.Services\\IWordServices.cs",
-              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Services\\IWordServices.cs",
-              "RelativeToolTip": "App.Services\\IWordServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T08:31:28.58Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 19,
               "Title": "ICurrencyServices.cs",
-              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Services\\ICurrencyServices.cs",
+              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Services\\ICurrencyServices.cs",
               "RelativeDocumentMoniker": "App.Services\\ICurrencyServices.cs",
-              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Services\\ICurrencyServices.cs",
+              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Services\\ICurrencyServices.cs",
               "RelativeToolTip": "App.Services\\ICurrencyServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -332,37 +346,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WordServices.cs",
-              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Services\\WordServices.cs",
-              "RelativeDocumentMoniker": "App.Services\\WordServices.cs",
-              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Services\\WordServices.cs",
-              "RelativeToolTip": "App.Services\\WordServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T08:22:51.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "CurrencyServices.cs",
-              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Services\\CurrencyServices.cs",
+              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Services\\CurrencyServices.cs",
               "RelativeDocumentMoniker": "App.Services\\CurrencyServices.cs",
-              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Services\\CurrencyServices.cs",
+              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Services\\CurrencyServices.cs",
               "RelativeToolTip": "App.Services\\CurrencyServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwCcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T08:19:09.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 6,
               "Title": "CurrencyTests.cs",
-              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Tests\\CurrencyTests.cs",
+              "DocumentMoniker": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Tests\\CurrencyTests.cs",
               "RelativeDocumentMoniker": "App.Tests\\CurrencyTests.cs",
-              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\Application\\AppSolution\\App.Tests\\CurrencyTests.cs",
+              "ToolTip": "C:\\Users\\AVeryPrivatePerson\\Documents\\Job tasks\\TechnologyOne\\NumberToWords\\Application\\App.Tests\\CurrencyTests.cs",
               "RelativeToolTip": "App.Tests\\CurrencyTests.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwCIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

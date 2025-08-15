@@ -23,10 +23,10 @@
     else {
         <form class="d-flex justify-content-center" method="post" onsubmit="">
             <div class="form-group mb-2">
-                <select required class="form-control" id="currency" name="currency" asp-for="CurrencyCode" asp-items="Model.CurrencyOptions"></select>
+                <select required class="form-control form-select" id="currency" asp-for="CurrencyCode" asp-items="Model.CurrencyOptions"></select>
             </div>
             <div class="form-group mx-sm-3 mb-2">
-                <input required asp-for="Number" type="number" id="number" name="number" onblur="validate(this)" step="0.01" min="0.01" max="1000000000000000000" class="form-control" placeholder="145.55" />                
+                <input required asp-for="Number" type="number" id="number" onblur="validate(this)" step="0.01" min="0.01" max="1000000000000000000" class="form-control" placeholder="145.55" />                
             </div>
             <button type="submit" class="btn btn-primary mb-2">Convert to Words</button>
         </form>
@@ -42,13 +42,9 @@
     function validate(e) {
         if(e.value) {
             e.value = parseFloat(e.value).toFixed(2);
-
-            // <label id="numberWarning" style="display: none" class="text-warning"></label>
-            // var numberWarning = document.getElementById('numberWarning');
-            // if(!Number.isNaN(e.value)) {
-            //     numberWarning.innerText = 'Please enter a number';
-            //     e.value = 0.01;
-            // }
+        }
+        if(e.value === 0 || e.value === '0.00') {
+            e.value = 0.01;
         }
     }
 </script>

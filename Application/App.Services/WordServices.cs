@@ -49,8 +49,11 @@ namespace App.Services
                     }
                     else
                     {
-                        string tensWord = dataServices.GetNumbers()[remainderFromHundred].Words!;
-                        resultBuilder.Append(tensWord);
+                        if(remainderFromHundred > 0)
+                        {
+                            string tensWord = dataServices.GetNumbers()[remainderFromHundred].Words!;
+                            resultBuilder.Append(tensWord);
+                        }
                     }
                 }
                 return new ResultDTO<string>
