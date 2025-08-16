@@ -129,8 +129,8 @@ namespace App.Services.Data
                 Words = "Sixty"
             } },
             {70, new Number() {
-                Digits = 5,
-                Words = "Five"
+                Digits = 70,
+                Words = "Seventy"
             } },
             {80, new Number() {
                 Digits = 80,
